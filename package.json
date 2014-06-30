@@ -1,0 +1,7 @@
+{
+  "name": "Mongoose-CRUD",
+  "version": "0.1.0",
+  "dependencies": {
+    "mongoose": "^3.8.12"
+  }
+}
